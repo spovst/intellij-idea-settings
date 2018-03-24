@@ -1,0 +1,489 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Java 8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_65&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_65" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_65/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2016/system/python_stubs/-762174762" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IntelliJ IDEA Community Edition IC-141.713.2" />
+      <type value="IDEA JDK" />
+      <version value="java version &quot;1.8.0_65&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/annotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/asm-all.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/automaton.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/boot.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/bootstrap.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/cli-parser-1.1.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-httpclient-3.1-patched.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-net-3.3.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/extensions.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/forms_rt.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/icons.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/idea_rt.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/isorelax.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/javac2.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jaxen-1.1.3.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jayatana-1.2.4.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jcip-annotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdom.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-common-1.2.1.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-forms.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-looks-2.4.2.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jh.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jing.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jna.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jps-launcher.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jps-model.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.connector-factory.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.core.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.pageant.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.sshagent.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.usocket-jna.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.usocket-nc.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jsr173_1.0_api.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/log4j.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/markdown4j-2.2.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/markdownj-core-0.4.2-SNAPSHOT.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/microba.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/nanoxml-2.2.3.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/nekohtml-1.9.14.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/optimizedFileManager.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/oromatcher.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/picocontainer.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/purejavacomm.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/resolver.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/resources.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/resources_en.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/rngom-20051226-patched.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/serviceMessages.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/slf4j-api-1.7.10.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/slf4j-log4j12-1.7.10.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/swingx-core-1.6.2.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/trang-core.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/trove4j.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/util.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/velocity.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/xbean.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/xmlrpc-2.0.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/xpp3-1.1.4-min.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/source-codes/Java/idea/RegExpSupport/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/RegExpSupport/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/RegExpSupport/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/build/cucumber-test-runner/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/build/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/images/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/forms-compiler/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/forms-compiler/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/impl/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/instrumentation-util/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/javac2/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/compiler/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/debugger/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/debugger/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/execution/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/execution/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/idea-ui/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-analysis-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-analysis-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-impl/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-indexing-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-indexing-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-psi-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-psi-impl/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-psi-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-runtime/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-structure-view/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/java-tests/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/jsp-base-openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/jsp-openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/jsp-spi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/manifest/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/manifest/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/remote-servers/api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/remote-servers/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/structuralsearch-java/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/testFramework/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/typeMigration/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/java/typeMigration/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/antLayout/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/jps-builders/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/jps-builders/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/jps-launcher/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/model-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/model-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/model-impl/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/model-serialization/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/model-serialization/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/plugin-system/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/jps/standalone-builder/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/json/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/json/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/json/tests/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/analysis-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/analysis-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/annotations/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/boot/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/bootstrap/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/built-in-server-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/built-in-server/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/core-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/core-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/diff-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/diff-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/diff-impl/tests" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/duplicates-analysis/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/dvcs-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/dvcs-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/editor-ui-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/editor-ui-ex/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/extensions/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/extensions/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/external-system-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/external-system-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/external-system-impl/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/forms_rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/funcTests/project1/module1/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/indexing-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/indexing-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lang-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lang-api/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lang-impl/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lang-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lang-impl/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lvcs-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/lvcs-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/platform-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/platform-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/platform-main/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/platform-tests/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/projectModel-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/projectModel-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/remote-servers/agent-rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/remote-servers/api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/remote-servers/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/script-debugger/backend/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/script-debugger/debugger-ui/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/script-debugger/debugger-ui/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/script-debugger/protocol/protocol-model-generator/generated" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/script-debugger/protocol/protocol-reader-runtime/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/smRunner/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/smRunner/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/structuralsearch/source" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/structuralsearch/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/structure-view-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/structure-view-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/testFramework/bootstrap/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/testFramework/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/testFramework/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/testRunner/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/usageView/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/util-rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/util/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/util/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-api/vcs-api-core/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-impl/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/graph-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/graph/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/graph/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/impl/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/vcs-log/impl/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/xdebugger-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/xdebugger-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/platform/xdebugger-impl/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ByteCodeViewer/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/InspectionGadgets/InspectionGadgetsAnalysis/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/InspectionGadgets/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/InspectionGadgets/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/InspectionGadgets/testsrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntelliLang/IntelliLang-tests/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntelliLang/intellilang-jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntelliLang/java-support" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntelliLang/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntelliLang/xml-support" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntentionPowerPak/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntentionPowerPak/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/IntentionPowerPak/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ShortcutPromoter/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ant/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ant/jps-plugin/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ant/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ant/tests/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/commander/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/copyright/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/coverage-common/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/coverage/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/coverage/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cucumber-jvm-formatter/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/cvs-core/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/cvs-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/javacvs-src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/smartcvs-src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/trilead-ssh2-build213/examples" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/cvs/trilead-ssh2-build213/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/devkit/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/devkit/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/devkit/jps-plugin/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/eclipse/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/eclipse/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/eclipse/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/eclipse/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/editorconfig/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/generate-tostring/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/generate-tostring/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/remote-servers-git/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/resources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/test-stepdefs" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/git4idea/tests" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/github/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/github/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/jps-plugin/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/runtime/source" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/source" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/google-app-engine/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/tooling-extension-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/tooling-extension-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/gradle/tooling-extension-impl/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/groovy-psi/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/groovy-psi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/hotswap/agentSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/rt-constants/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/structuralsearch-groovy/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/structuralsearch-groovy/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/groovy/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/hg4idea/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/hg4idea/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-decompiler/engine/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-decompiler/engine/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-decompiler/plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-decompiler/plugin/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-i18n/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/java-i18n/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/javaFX/FxBuilderEmbedder/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/javaFX/common-javaFX-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/javaFX/javaFX-CE/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/javaFX/javaFX-jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/javaFX/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/junit/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/junit/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/junit_rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/artifact-resolver-m2/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/artifact-resolver-m31/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/artifact-resolver-m3/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/jps-plugin/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven-server-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven2-server-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven2-server-impl/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven3-server-common/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven30-server-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/maven32-server-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/src/main/java" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/maven/src/test/java" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/properties/properties-psi-api/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/properties/properties-psi-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/properties/properties-psi-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/properties/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/properties/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/svn4idea/resources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/svn4idea/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/svn4idea/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-core/jira/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-core/jira/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-core/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-java/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/tasks/tasks-tests/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/terminal/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/testng/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/testng/testSources" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/testng_rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ui-designer-core/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ui-designer/jps-plugin/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ui-designer/jps-plugin/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ui-designer/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/ui-designer/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xpath/xpath-lang/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xpath/xpath-lang/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xpath/xpath-view/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xpath/xslt-rt/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xslt-debugger/engine/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xslt-debugger/engine/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xslt-debugger/rt/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/plugins/xslt-debugger/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/IntelliLang-python/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/course-creator-intellij-py/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/course-creator-python/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/course-creator-python/tests" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/interactive-learning-intellij-py/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/interactive-learning-python/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/interactive-learning-python/tests" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/edu/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/educational/course-creator/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/educational/interactive-learning-intellij/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/educational/interactive-learning/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/educational/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/ide/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/ipnb/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/ipnb/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/pluginSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/pluginTestSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/psi-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/pydevSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/python-rest/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/python-rest/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/rest/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/rest/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/python/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/samples/comparingReferences/source" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/samples/comparingReferences/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/samples/conditionalOperatorConvertor/source" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/samples/conditionalOperatorConvertor/testSource" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/spellchecker/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/spellchecker/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/launcher-generator/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/examples/binary" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/examples/cup" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/examples/interpreter" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/examples/java" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/examples/simple" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/tools/lexer/jflex-1.4/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/updater/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/updater/testSrc" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/dom-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/dom-openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/dom-tests/tests" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/openapi/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/relaxng/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/relaxng/test" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/tests/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-analysis-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-analysis-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-psi-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-psi-impl/gen" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-psi-impl/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-structure-view-api/src" type="simple" />
+            <root url="file://$USER_HOME$/source-codes/Java/idea/xml/xml-structure-view-impl/src" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="Java 8">
+        <option name="mySandboxHome" value="C:\Users\silent\.IdeaIC14\system\plugins-sandbox" />
+      </additional>
+    </jdk>
+  </component>
+</application>
