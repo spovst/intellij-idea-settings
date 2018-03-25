@@ -6,4 +6,9 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="THUMBNAILATOR-LICENSE" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
 </application>
